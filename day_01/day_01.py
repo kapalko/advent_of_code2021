@@ -32,4 +32,3 @@ if __name__ == "__main__":
     day_1a(data)
     print("Day 1b: ")
     day_1b(data)
-
