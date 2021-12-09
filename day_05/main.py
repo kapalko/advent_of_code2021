@@ -1,5 +1,4 @@
 import numpy as np
-from numpy.core.defchararray import count
 
 lines = []
 with open('day_05/data.txt') as f:
